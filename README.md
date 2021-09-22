@@ -3,6 +3,6 @@
 this project is a group project for the final year
 
 Members:-
-Akarsh Pathania
-Shaivi Chauhan
+Akarsh Pathania,
+Shaivi Chauhan,
 Uddayan Sharma
